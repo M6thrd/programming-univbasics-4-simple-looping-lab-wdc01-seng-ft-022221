@@ -16,7 +16,7 @@ def loop_message_n_times(string,int)
   end
 end
 
-def
-
+def output_array(array)
+  
 end
 # Write your methods here
