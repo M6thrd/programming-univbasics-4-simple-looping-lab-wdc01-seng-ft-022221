@@ -17,6 +17,10 @@ def loop_message_n_times(string,int)
 end
 
 def output_array(array)
+  counter = 0
   
+  while   do
+    
+  end 
 end
 # Write your methods here
