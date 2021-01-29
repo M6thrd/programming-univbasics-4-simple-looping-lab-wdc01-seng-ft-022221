@@ -13,6 +13,6 @@ def loop_message_n_times(string,int)
   while counter < int do
     puts string
     counter += 1
-  
+  end
 end
 # Write your methods here
