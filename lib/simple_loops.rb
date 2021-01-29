@@ -24,7 +24,7 @@ def output_array(array)
   end 
 end
 
-def
+def 
 
 end
 # Write your methods here
