@@ -24,7 +24,11 @@ def output_array(array)
   end 
 end
 
-def return_string_array()
+def return_string_array(array)
+  counter = 0
 
+  while counter <array.length do
+    
+  end
 end
 # Write your methods here
